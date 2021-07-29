@@ -1,4 +1,4 @@
 hello world!
 bbbbABB
 new lines
-new second lines
+new second lines and simple
